@@ -237,4 +237,4 @@ This repository serves as the official landing page for Adobe Flash Player. The 
 **Get the most recent version of Adobe Flash Player today!**
 
 ---
-**Last updated:** 2026-09-13 22:53:19 UTC
+**Last updated:** 2026-09-14 00:44:49 UTC
